@@ -1,0 +1,12 @@
+C:\Program Files\Eclipse for Java EE IDE for Web Developers\eclipse.exe
+C:\Program Files\Eclipse for Java Developers\eclipse.exe
+C:\Program Files\Eclipse for C and C++ Developers\eclipse.exe
+
+
+
+
+
+
+
+
+
